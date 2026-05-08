@@ -1,12 +1,8 @@
-## Hi there 👋
+## PixelPlayer Studios Headquarters
 
-<!--
+Welcome to the official repository of PixelPlayer Studios Headquarters — the central hub for all core systems, infrastructure, tools, and projects developed by PixelPlayer Studios.
+This repository contains internal frameworks, backend services, modular systems, and technologies powering our platforms and gaming environments.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 🛠️ Technologies
+This project uses technologies such as:
+`Kotlin`, `Java`, `Velocity`, `Paper / Purpur`, `Docker`, `Kubernetes`, `HTML / CSS / JavaScript`, `Gradle`, `GitHub Actions`
