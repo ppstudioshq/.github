@@ -13,7 +13,7 @@ and next-generation gaming technology.
 
 <img src="https://img.shields.io/badge/Kotlin-181818?style=for-the-badge&logo=kotlin" />
 <img src="https://img.shields.io/badge/Java-181818?style=for-the-badge&logo=openjdk" />
-<img src="https://img.shields.io/badge/Velocity-181818?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PaperMC-181818?style=for-the-badge&logo=papermc&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-181818?style=for-the-badge&logo=docker" />
 <img src="https://img.shields.io/badge/Kubernetes-181818?style=for-the-badge&logo=kubernetes" />
 
