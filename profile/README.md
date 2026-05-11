@@ -46,6 +46,7 @@ Our goal is to build highly scalable, maintainable, and performance-driven softw
 
 ### Backend Development
 - Kotlin
+- Go
 - Java
 - Gradle
 - REST APIs
@@ -60,9 +61,12 @@ Our goal is to build highly scalable, maintainable, and performance-driven softw
 ### Infrastructure & DevOps
 - Docker
 - Kubernetes
+- Redis / RabbitMQ
 - Linux Server Environments
+- Proxmox & Proxmox Backup
 - CI/CD Pipelines
 - GitHub Actions
+- Hazelcast
 
 ### Web Technologies
 - HTML5
@@ -70,6 +74,11 @@ Our goal is to build highly scalable, maintainable, and performance-driven softw
 - JavaScript
 - Dashboard & Management Systems
 
+### Hosters
+- Amazon Web Services
+- Google Cloud
+- OVHCloud
+- Hetzner
 ---
 
 ## Vision
